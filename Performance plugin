@@ -1,5 +1,5 @@
 // Plugin: PerformanceBooster
-// Author: chatgpt
+// Author: Nebula-6
 // Description: Disable typing, GIFs, animations, and other UI bloat to improve speed — now with settings toggle!
 
 export default {
